@@ -1,6 +1,4 @@
-===============================
- HERRAMIENTA FORENSE PORTABLE
-===============================
+HERRAMIENTA FORENSE PORTABLE
 
 Autor: Fernando Fernández Aguiló
 TFM - Máster en Ciberseguridad (UGR)
